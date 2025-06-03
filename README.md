@@ -9,7 +9,7 @@ You can access the dataset I used at this link: https://data.world/zathompson/co
 
 ## II. Airbnb 2016 Project
 
-In this project, I learned from Alex The Analyst's YouTube channel, where I created 5 different visual charts to see how various factors affect house rental prices:
+In this project, I created 5 different visual charts to see how various factors affect house rental prices:
 
 - Symbol Maps: Display average rental prices by zipcode
 - Maps: Show maps by area with average prices, through which you can see the average prices by geographic regions and which locations have expensive rental prices
